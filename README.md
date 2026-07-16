@@ -29,9 +29,10 @@ Control & Automation Engineer with an MSc in Industrial and Systems Engineering,
 - Multimodal sensing & sensor fusion
 - Robotics (UAVs, 3D-printed and humanoid platforms)
 
+
 ### 🛠️ Tech stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -61,7 +62,7 @@ Fill this table in as soon as your first Edge AI + agriculture project is docume
 
 ### 📊 GitHub stats
 
-<p align="left">
+<p align="center">
   <img height="165" src="https://github-readme-stats-delta-dun-69.vercel.app/api?username=thaislrcunha&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats-delta-dun-69.vercel.app/api/top-langs/?username=thaislrcunha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
