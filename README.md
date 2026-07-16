@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Thais 👋</h1>
+<h1 align="center">Hi, I'm Thais Cunha 👋</h1>
 
 <p align="center">
   <b>ML Researcher · Edge AI & Computer Vision · Precision Agriculture</b>
@@ -70,6 +70,3 @@ Fill this table in as soon as your first Edge AI + agriculture project is docume
   <img src="https://streak-stats.demolab.com/?user=thaislrcunha&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-<p align="center"><i>Open to research collaborations in Edge AI, computer vision, and precision agriculture.</i></p>
