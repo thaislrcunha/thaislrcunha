@@ -14,13 +14,13 @@
 
 ### About me
 
-Control & Automation Engineer with an MSc in Industrial and Systems Engineering, currently completing a second degree in Computer Science (Federal University of Goiás) focused on AI, computer vision, and embedded intelligent systems. I work at the intersection of **multimodal sensing**, **edge AI**, and **real-world deployment**, with the long-term goal of bringing machine learning to precision agriculture and digital health — fields where hardware constraints, not just model accuracy, decide what actually ships.
+Control & Automation Engineer with an MSc in Industrial and Systems Engineering, currently completing a second degree in Computer Science (Federal University of Goiás) focused on AI, computer vision, and embedded intelligent systems. I work at the intersection of **multimodal sensing**, **edge AI**, and **real-world deployment**, with the long-term goal of bringing machine learning to precision agriculture and digital health.
 
 ### 🔭 Currently
 
 - Researching **Edge AI / TinyML** at [CEIA](https://ceia.ufg.br) (Center of Excellence in Artificial Intelligence, UFG) — coordinating a hardware-constrained AI deployment program.
 - Researching **multimodal sensing for vital signs** at AKCIT (EMBRAPII Competence Center in Immersive Technologies) — project **AIMS** (Advanced Multimodal Sensing).
-- Preparing applications for fully-funded **PhD programs** in machine learning applied to edge AI and precision agriculture.
+- Preparing applications for **PhD programs** in machine learning applied to edge AI and precision agriculture.
 
 ### 🌱 Research interests
 
@@ -45,6 +45,7 @@ Control & Automation Engineer with an MSc in Industrial and Systems Engineering,
   <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
 </p>
 
+<!--
 ### 📄 Selected publications
 
 - Cunha, T. L. R.; Medeiros, D. A. M. M.; Carneiro, M. L. **"Informational Design of an Agricultural Spraying Drone: An Integrated DCU, Kano Analysis and House of Quality Approach."** SODEBRAS, 2025.
