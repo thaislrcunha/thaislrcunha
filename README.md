@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Thais Cunha 👋</h1>
+<h1 align="center">Hi, I'm Thais Cunha</h1>
 
 <p align="center">
   <b>ML Researcher · Edge AI & Computer Vision · Precision Agriculture</b>
@@ -62,11 +62,10 @@ Fill this table in as soon as your first Edge AI + agriculture project is docume
 ### 📊 GitHub stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thaislrcunha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaislrcunha&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-delta-dun-69.vercel.app/api?username=thaislrcunha&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-delta-dun-69.vercel.app/api/top-langs/?username=thaislrcunha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=thaislrcunha&theme=tokyonight&hide_border=true" />
-</p>
 
+
+---
