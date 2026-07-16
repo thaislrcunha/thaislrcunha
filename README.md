@@ -18,7 +18,7 @@ Control & Automation Engineer with an MSc in Industrial and Systems Engineering,
 
 ### 🔭 Currently
 
-- Researching **Edge AI / TinyML** at [CEIA](https://ceia.ufg.br) (Center of Excellence in Artificial Intelligence, UFG) — coordinating a hardware-constrained AI deployment program.
+- Researching **Edge AI / TinyML** at [CEIA](https://ceia.ufg.br) (Center of Excellence in Artificial Intelligence, UFG)
 - Researching **multimodal sensing for vital signs** at AKCIT (EMBRAPII Competence Center in Immersive Technologies) — project **AIMS** (Advanced Multimodal Sensing).
 - Preparing applications for **PhD programs** in machine learning applied to edge AI and precision agriculture.
 
